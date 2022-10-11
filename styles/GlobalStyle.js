@@ -43,18 +43,6 @@ const GlobalStyle = createGlobalStyle`
     cursor: none!important;
   }
 
-  .cursor {
-    background: rgba(255,255,255,.5);
-    height: 32px;
-    width: 32px;
-    border-radius: 50%;
-    position: fixed;
-    top: 400;
-    left: 400;
-    pointer-events: none;
-    z-index: 1600;
-  }
-
   html::-webkit-scrollbar {
     display: none;
   }

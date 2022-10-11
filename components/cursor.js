@@ -4,6 +4,18 @@ import Image from 'next/image'
 import styled from 'styled-components'
 import { motion } from 'framer-motion'
 
+const Pointer = styled(motion.div)`
+  background: rgba(255,255,255,.5);
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  position: fixed;
+  top: 400;
+  left: 400;
+  pointer-events: none;
+  z-index: 1600;
+`;
+
 const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave}) => {
 
   const [mousePosition, setMousePosition] = React.useState({
@@ -49,8 +61,7 @@ const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave}) => {
   }
 
   return (
-    <motion.div
-      className='cursor'
+    <Pointer
       variants={variants}
       animate={cursorVariant}
       hoverEnter={hoverEnter}
