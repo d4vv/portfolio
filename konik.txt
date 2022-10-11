@@ -1,0 +1,539 @@
+<div class="row">
+<div class="visible-md visible-lg">
+<table border="0,5px" rules="rows" frame="void" color="1c375f" style="width: 100%; height: 366px;">
+<tbody>
+<tr style="height: 15px;">
+<td style="white-space: nowrap; width: 208px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/absorbine">ABSORBINE</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 184px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/acavallo">ACAVALLO</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 235px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/AEROCHILL">AEROCHILL</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 137px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/aesculap">AESCULAP</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 219px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/akademiajezdziecka">AKADEMIA JEŹDZIECKA</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 206px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/anky-technical-casual">ANKY</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/InterAPI">API</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/ariat">ARIAT</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/b-vertigo">B//VERTIGO</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/backontack">BACK ON TRACK</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/back2back">BACK2BACK</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Bates">BATES</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/bense-eicke">BENSE&amp;EICKE</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/blackcarrot">BLACK CARROT</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/black-horse">BLACK HORSE</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/bmhorse">BM HORSE</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/br-passion">BR PASSION</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/breyer">BREYER</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/bucas">BUCAS</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/busse-reitsport">BUSSE</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CanAgri">CAN AGRI</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CARMANI">CARMANI</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CARRDAYMARTIN">CARR&amp;DAY&amp;MARTIN</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/kaski-casco">CASCO</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CAVALOR">CAVALLO</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CAVALOR">CAVALOR</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/comodo">COMODO</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/COMPOSITI">COMPOSITI</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/cavalliero">COVALLIERO</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/CSO">CSO</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Dainese">DAINESE</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/daw-mag">DAW-MAG</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/DeHeus">DE HEUS</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/DragonSports">DRAGON SPORTS</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/dynavena-pasza-dla-koni-najwyszej-jakosci">DYNAVENA</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Earbags">EARBAGS</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EFFOL">EFFOL</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EKKIA">EKKIA</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Equest">EQUEST</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EQUI-THEME">EQUITHEME</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/equiline">EQUILINE</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EQUIMINS">EQUIMINS</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EQUI-NATURA">EQUI NATURA</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/equip-horse">EQUIP HORSE FRANCJA</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/EricThomas">ERIC THOMAS</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/eskadron">ESKADRON</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/euro-star">EURO-STAR</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/eurowet">EUROWET</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/f-r-a">F. R. A.</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/fairplay">FAIR PLAY</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Farnam">FARNAM</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/feeling">FEELING</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/FiorDaLiso">FIOR DA LISO</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Fleck-baty">FLECK</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/flex-on">FLEX-ON</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/FM-ITALIA">FM ITALIA</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/fo-krzysiek">FO KRZYSIEK</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/foran">FORAN</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/forrider">FORRIDER</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/freejump">FREEJUMP</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/wydawnictwo-galaktyka">GALAKTYKA</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Galla">GALLA</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/gpa">GPA</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Grays">GRAY'S</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/haas">HAAS</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Hanipol">HANIPOL</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/happy-mouth-bits">HAPPY MOUTH</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/HAPPYROSS">HAPPYROSS</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/harcour">HARCOUR</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/harryshorse">HARRY'S HORSE</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/haukeshmidt">HAUKESCHMIDT</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Helite">HELITE</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Hexa">HEXA</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/HIPOVET">HIPOVET</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/hippica">HIPPICA</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Hippika">HIPPIKA.COM</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/HIPPO-TONIC">HIPPO TONIC</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/hkm">HKM</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Horse-Line-PRO">HORSELINE PRO</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/horsense">HORSENSE</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/horseware-ireland">HORSEWARE</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/horslyx">HORSLYX</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/horze">HORZE</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/HQS-hacele">HQS</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/hunter-obroze">HUNTER</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/hvpolo">HV POLO</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/IMPERIAL-RIDING">IMPERIAL RIDING</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/jacson">JACSON</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/jin-stirrup">JIN STIRRUP</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/kask-sport">KASK SPORTS</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/kavalkade">KAVALKADE</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/KENIG">KENIG</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/KERALIT">KERALIT</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Kerbl">KERBL</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/kieffer">KIEFFER</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/komperdell">KOMPERDELL</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Konska-cukierenka-JMS-HORSE-TREATS">KOŃSKA CUKIERENKA</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/koo-okulary-gogle-konik">KOO</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/LAMICELL">LAMICELL</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Leman-Horse-Cosmetics">LEMAN</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/leovet">LEOVET</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/likit">LIKIT</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/MATTES">E. A. MATTES</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/metalab">METALAB</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Mustang">MUSTANG</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/MYLER">MYLER</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Nici">NICI</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/NORTON">NORTON</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/OFFICINALIS">OFFICINALIS</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/OneK">ONE K</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Oster">OSTER</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/OVERHORSE">OVER HORSE</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Papo">PAPO</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/parisol">PARISOL</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Siolda-Parkur">PARKUR</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/pavo">PAVO</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Pegastro">PEGASTRO</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/pfiff">PFIFF</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/PHARMACARE">PHARMACARE</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/pikeur">PIKEUR</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Przybylski-palcaty-baty">PRZYBYLSKI</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/qhp">QHP</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/quickshed">QUICKSHED</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Roeckl">ROECKL SPORTS</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/schockemohle">SCHOCKEMOHLE</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Skotan">SKOTAN</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Someh">SOMEH</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/spooks-riding">SPOOKS</a></span></div>
+</td>
+<td style="width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/SPRENGER">SPRENGER</a></span></div>
+</td>
+<td style="width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/St-Hippolyt">ST. HIPPOLYT</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Start">START RIDING</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/STUBBEN">STUBBEN</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="white-space: nowrap; width: 208px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/swiadome-jezdziectwo">ŚWIADOME JEŹDZIECTWO</a></span></div>
+</td>
+<td style="width: 184px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/torpol">TORPOL</a></span></div>
+</td>
+<td style="width: 235px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/USG">USG</a></span></div>
+</td>
+<td style="width: 137px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Uvex">UVEX</a></span></div>
+</td>
+<td style="width: 219px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/waldhausen">WALDHAUSEN</a></span></div>
+</td>
+<td style="width: 206px; height: 18px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/WHIP-GO">WHIP&amp;GO</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/wintec">WINTEC</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/pracownia-bizuterii-artystycznej-wrobel">WRÓBEL</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 235px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/pasza-morawski">WYTWÓRNIA PASZ A. MORAWSKI</a></span></div>
+</td>
+<td style="white-space: nowrap; width: 137px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/You-Your-Horse">YOU&amp;YOUR HORSE</a></span></div>
+</td>
+<td style="width: 219px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Zandona">ZANDONA</a></span></div>
+</td>
+<td style="width: 206px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/Zee-Dog">ZEEDOG</a></span></div>
+</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 208px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/acerbipharma">AcerbiPharma</a></span></div>
+</td>
+<td style="width: 184px; height: 15px;">
+<div class="text-item"><span style="font-size: 8pt;"><a href="https://konik.com.pl/imima">IMIMA</a></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="visible-xs visible-sm">
+<ul style="padding-left: 10px;">
+<li>
+<div class="text-item"><a href="http://konik.com.pl/eskadron">Eskadron</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/pikeur">Pikeur</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/wintec">Wintec</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/schockemohle">Schockemohle</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/anky-technical-casual">ANKY</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/kieffer">Kieffer</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/fairplay">Fair Play</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/horseware-ireland">Horseware</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/haas">Haas</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/flex-on">Flex-on</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/horze">Horze</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/pasza-morawski">Sukces</a></div>
+</li>
+<li>
+<div class="text-item"><a href="http://konik.com.pl/producenci"> &gt;&gt; Zobacz wszystkich</a></div>
+</li>
+</ul>
+</div>
+</div>
