@@ -33,7 +33,7 @@ const variants = {
 };
 
 const name = ["About", "Portfolio", "Concepts", "Contact"];
-const link = ["/about", "/", "/concepts", "/contact"];
+const link = ["/about", "/portfolio/amorphous", "/concepts", "/contact"];
 
 
 export const MenuItem = ({hoverEnter, hoverLeave, handleNav, i }) => {
