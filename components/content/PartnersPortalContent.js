@@ -33,7 +33,7 @@ const PartnersPortalContent = () => (
                 layout="fill"
                 objectFit="cover"
                 objectPosition="center"
-                priority
+                placeholder="blur"
               />
             </MotionImage>
           </Section>
