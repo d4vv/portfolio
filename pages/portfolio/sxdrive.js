@@ -36,10 +36,8 @@ export default function Sxdrive({hoverEnter, hoverLeave, leftLink, rightLink}) {
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/zbierz-druzyne')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/portal')
-      console.log('detectPaginationGesture')
     }
   }
 

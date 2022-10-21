@@ -14,13 +14,27 @@ const Pointer = styled(motion.div)`
   left: 400;
   pointer-events: none;
   z-index: 1600;
+
+  body.lightMode & {
+    background: rgba(0,0,0,.5)!important;
+    mix-blend-mode: normal!important;
+  }
+
+  body.lightMode &.navOpen {
+    background: rgba(255,255,255,.5)!important;
+    mix-blend-mode: revert!important;
+  }
+
+  body.darkMode & {
+    background: rgba(255,255,255,.5);
+  }
 `;
 
-const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave}) => {
+const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave, isOpen}) => {
 
   const [mousePosition, setMousePosition] = React.useState({
-    x: null,
-    y: null
+    x: 400,
+    y: 400
   });
 
   useEffect(() => {
@@ -36,14 +50,15 @@ const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave}) => {
 
     return () => {
       window.removeEventListener("mousemove", mouseMove);
-      console.log('removeEventListener')
     }
   }, []);
 
   const variants = {
     default: {
+      backgroundColor: "rgba(255,255,255,.5)",
       x: mousePosition.x - 16,
       y: mousePosition.y - 16,
+      mixBlendMode: "normal"
       // transition: {
       //   type: "spring",
       //   stiffness: 10000,
@@ -62,6 +77,11 @@ const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave}) => {
 
   return (
     <Pointer
+      className={
+        isOpen
+          ? 'navOpen'
+          : ''
+      }
       variants={variants}
       animate={cursorVariant}
       hoverEnter={hoverEnter}

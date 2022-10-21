@@ -20,6 +20,10 @@ const MotionDiv = styled(motion.div)`
   position: relative;
 `;
 
+export async function getStaticProps() {
+    return { props: { isLight: true } };
+}
+
 export default function ZbierzDruzyne({hoverEnter, hoverLeave, leftLink, rightLink}) {
 
   const variants = {
@@ -36,10 +40,8 @@ export default function ZbierzDruzyne({hoverEnter, hoverLeave, leftLink, rightLi
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/amorphous')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/sxdrive')
-      console.log('detectPaginationGesture')
     }
   }
 

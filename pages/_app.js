@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import Cursor, { hoverEnter, hoverLeave } from '../components/cursor'
+import Cursor from '../components/cursor'
 import Top from '../components/top'
 import Preloader from '../components/preloader'
 import Favicon from 'react-favicon'
@@ -12,10 +12,21 @@ function MyApp({ Component, pageProps }) {
   const hoverEnter = () => setCursorVariant("hover");
   const hoverLeave = () => setCursorVariant("default");
 
+  useEffect(() => {
+      document.body.className = pageProps.isLight ? 'lightMode' : 'darkMode';
+  });
+
+  const [isOpen, setOpen] = useState(false)
+
+  const handleNav = () => {
+    setOpen(!isOpen);
+  };
+
   return (
     <>
-      {/* <Preloader /> */}
-      <Cursor 
+      <Preloader />
+      <Cursor
+        isOpen={isOpen}
         cursorVariant={cursorVariant}
         setCursorVariant={setCursorVariant} 
         hoverEnter={hoverEnter}
@@ -44,15 +55,18 @@ function MyApp({ Component, pageProps }) {
         ]}
       />
       <Top 
-        hoverEnter={hoverEnter} 
-        hoverLeave={hoverLeave} 
+        isOpen={isOpen}
+        setOpen={setOpen}
+        handleNav={handleNav}
+        hoverEnter={hoverEnter}
+        hoverLeave={hoverLeave}
       />
       <AnimatePresence
         mode='wait'
         initial={false}
       >
-        <Component 
-          hoverEnter={hoverEnter} 
+        <Component
+          hoverEnter={hoverEnter}
           hoverLeave={hoverLeave}
           {...pageProps}
         />

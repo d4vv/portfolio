@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import ReactFullpage from '@fullpage/react-fullpage'
@@ -28,21 +29,7 @@ const AmorphousContent = () => (
               className="imageContainer">
               <Image
                 className="image"
-                src="/images/photo.png"
-                alt="Picture of the author"
-                layout="fill"
-                objectFit="cover"
-                objectPosition="center"
-                priority
-              />
-            </MotionImage>
-          </Section>
-          <Section className="section">
-            <MotionImage
-              className="imageContainer">
-              <Image
-                className="image"
-                src="/images/photo.png"
+                src="/images/projects/amorphous/Amorphous_1.jpg"
                 alt="Picture of the author"
                 layout="fill"
                 objectFit="cover"

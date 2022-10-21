@@ -3,7 +3,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { motion, AnimatePresence } from 'framer-motion'
-import ReactFullpage from '@fullpage/react-fullpage'
 import SidePanel from '../components/sidepanel'
 import Arrows from '../components/arrows'
 import AmorphousContent from '../components/content/AmorphousContent'
@@ -18,42 +17,6 @@ const MotionDiv = styled(motion.div)`
   height: 100%;
   position: relative;
 `;
-
-const Fullpage = () => (
-  <ReactFullpage
-    //fullpage options
-    licenseKey = {'DK7G7-2CR78-CKD87-JI966-TVYXN'}
-    scrollingSpeed = {700}
-    controlArrows = {true}
-
-    render={({ state, fullpageApi }) => {
-      return (
-        <ReactFullpage.Wrapper>
-          <div className="section">
-            <div className="imageContainer">
-              <Image
-                className="image"
-                src="/images/photo.png"
-                alt="Picture of the author"
-                layout="fill"
-              />
-            </div>
-          </div>
-          <div className="section">
-            <div className="imageContainer">
-              <Image
-                className="image"
-                src="/images/photo.png"
-                alt="Picture of the author"
-                layout="fill"
-              />
-            </div>
-          </div>
-        </ReactFullpage.Wrapper>
-      );
-    }}
-  />
-);
 
 export default function Home({hoverEnter, hoverLeave}) {
 

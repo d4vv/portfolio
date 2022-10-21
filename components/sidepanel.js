@@ -38,6 +38,10 @@ const SidePanelMenuItem = styled.li`
 const SidePanelMenuItemLink = styled.a`
   height: 100%;
   color: var(--secondaryColor);
+
+  body.lightMode & {
+    color: var(--primaryColor);
+  }
 `;
 
 const SidePanelMenuItemImageWrapper= styled.div`
@@ -94,6 +98,10 @@ const SidePanelMenuItemTextInner = styled.div`
   transition: all .2s ease-in-out;
   float: right;
 
+  body.lightMode & {
+    opacity: .4;
+  }
+
   ${SidePanelMenuItemLink}:hover & {
     opacity: 1;
   }
@@ -110,6 +118,10 @@ const SidePanelMenuItemTextType = styled.span`
   opacity: .6;
   margin-bottom: 1rem;
   margin-right: 0.1rem;
+
+  body.lightMode & {
+    opacity: .8;
+  }
 `;
 
 const SidePanelTrigger = styled.div`

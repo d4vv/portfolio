@@ -36,10 +36,8 @@ export default function Armada({hoverEnter, hoverLeave, leftLink, rightLink}) {
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/aums')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/amorphous')
-      console.log('detectPaginationGesture')
     }
   }
 

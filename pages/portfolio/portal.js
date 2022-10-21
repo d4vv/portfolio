@@ -36,10 +36,8 @@ export default function Portal({hoverEnter, hoverLeave, leftLink, rightLink}) {
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/sxdrive')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/partners-portal')
-      console.log('detectPaginationGesture')
     }
   }
 

@@ -5,38 +5,46 @@ const GlobalStyle = createGlobalStyle`
     --primaryColor: #111218;
     --secondaryColor: #f1f1f1;
     --accentColor: #f1f1f1;
+    --redColor: #ff4851;
+    --base-translate3d: translate3d(0,0,0);
+    --primary-curve: cubic-bezier(0.62,0.05,0.01,0.99);
+    --marqueeColor: #1d1e26;
   }
 
   @font-face {
-      font-family: 'Helvetica Now Regular';
-      src: url('/fonts/helveticanowtext-webfont.woff2') format('woff2'),
-          url('/fonts/helveticanowtext-webfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
+  font-family: 'Helvetica Now Regular';
+  src: url('/fonts/helveticanowtext-webfont.woff2') format('woff2'),
+  url('/fonts/helveticanowtext-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
   }
 
   @font-face {
-      font-family: 'Helvetica Now Extra Light';
-      src: url('/fonts/helveticanowtextextralight-webfont.woff2') format('woff2'),
-          url('/fonts/helveticanowtextextralight-webfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
+  font-family: 'Helvetica Now Extra Light';
+  src: url('/fonts/helveticanowtextextralight-webfont.woff2') format('woff2'),
+  url('/fonts/helveticanowtextextralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
   }
 
   @font-face {
-      font-family: 'Helvetica Now Light';
-      src: url('/fonts/helveticanowtextlight-webfont.woff2') format('woff2'),
-          url('/fonts/helveticanowtextlight-webfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
+  font-family: 'Helvetica Now Light';
+  src: url('/fonts/helveticanowtextlight-webfont.woff2') format('woff2'),
+  url('/fonts/helveticanowtextlight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
   }
 
   @font-face {
-      font-family: 'Helvetica Now Thin';
-      src: url('/fonts/helveticanowtextthin-webfont.woff2') format('woff2'),
-          url('/fonts/helveticanowtextthin-webfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
+  font-family: 'Helvetica Now Thin';
+  src: url('/fonts/helveticanowtextthin-webfont.woff2') format('woff2'),
+  url('/fonts/helveticanowtextthin-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+  ::selection {
+    background: var(--redColor);
   }
 
   * {
@@ -56,6 +64,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     background: var(--primaryColor);
     font-family: 'Helvetica Now Light';
+    color: var(--secondaryColor);
   }
 
   .imageContainer {
@@ -65,7 +74,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   .imageContainer > div {
-      position: unset;
+    position: unset;
   }
 
   .image {
@@ -76,12 +85,8 @@ const GlobalStyle = createGlobalStyle`
     cursor: pointer;
   }
 
-  .test-hidden {
+  .navHidden {
     pointer-events: none;
-  }
-
-  .logo {
-    z-index: 2;
   }
 
   li {
@@ -90,6 +95,18 @@ const GlobalStyle = createGlobalStyle`
 
   a {
     cursor: pointer;
+  }
+
+  .darkMode .hamburger-react div {
+    background: var(--secondaryColor)!important;
+  }
+
+  .lightMode .hamburger-react div {
+    background: var(--primaryColor)!important;
+  }
+
+  .lightMode .navOpen .hamburger-react div {
+    background: var(--secondaryColor)!important;
   }
 `;
 

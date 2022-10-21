@@ -36,10 +36,8 @@ export default function Amorphous({hoverEnter, hoverLeave, leftLink, rightLink})
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/armada')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/zbierz-druzyne')
-      console.log('detectPaginationGesture')
     }
   }
 
@@ -70,7 +68,10 @@ export default function Amorphous({hoverEnter, hoverLeave, leftLink, rightLink})
               hoverEnter={hoverEnter}
               hoverLeave={hoverLeave}
             />
-            <AmorphousContent />
+            <AmorphousContent
+              hoverEnter={hoverEnter}
+              hoverLeave={hoverLeave}
+            />
           </MotionDiv>
         </AnimatePresence>
       </Main>

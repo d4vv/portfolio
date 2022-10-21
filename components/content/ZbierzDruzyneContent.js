@@ -28,21 +28,7 @@ const ZbierzDruzyneContent = () => (
               className="imageContainer">
               <Image
                 className="image"
-                src="/images/photo.png"
-                alt="Picture of the author"
-                layout="fill"
-                objectFit="cover"
-                objectPosition="center"
-                priority
-              />
-            </MotionImage>
-          </Section>
-          <Section className="section">
-            <MotionImage
-              className="imageContainer">
-              <Image
-                className="image"
-                src="/images/photo.png"
+                src="/images/projects/zbierz-druzyne/Zbierz-druzyne_1.jpg"
                 alt="Picture of the author"
                 layout="fill"
                 objectFit="cover"

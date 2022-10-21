@@ -20,6 +20,10 @@ const MotionDiv = styled(motion.div)`
   position: relative;
 `;
 
+export async function getStaticProps() {
+    return { props: { isLight: true } };
+}
+
 export default function PartnersPortal({hoverEnter, hoverLeave, leftLink, rightLink}) {
 
   const variants = {
@@ -36,10 +40,8 @@ export default function PartnersPortal({hoverEnter, hoverLeave, leftLink, rightL
     const threshold = xOffset / 2;
     if (offset.x < -threshold) {
       router.push('/portfolio/portal')
-      console.log('detectPaginationGesture')
     } else if (offset.x > threshold) {
       router.push('/portfolio/aums')
-      console.log('detectPaginationGesture')
     }
   }
 

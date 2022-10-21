@@ -58,8 +58,8 @@ const Navigation = ({hoverEnter, hoverLeave, isOpen, setOpen, handleNav}) => {
         variants={variants}
         className={
           isOpen
-            ? 'test-open'
-            : 'test-hidden'
+            ? 'navOpen'
+            : 'navHidden'
         }
       >
         <NavList
@@ -78,10 +78,14 @@ const Navigation = ({hoverEnter, hoverLeave, isOpen, setOpen, handleNav}) => {
       <div
         onMouseEnter={hoverEnter}
         onMouseLeave={hoverLeave}
+        className={
+          isOpen
+            ? 'navOpen'
+            : ''
+        }
       >
       <Hamburger
         onClick={handleNav}
-        color='#f1f1f1'
         toggled={isOpen}
         toggle={setOpen}
       />
