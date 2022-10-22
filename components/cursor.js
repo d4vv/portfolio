@@ -43,7 +43,6 @@ const Cursor = ({cursorVariant, setCursorVariant, hoverEnter, hoverLeave, isOpen
         x: e.clientX,
         y: e.clientY
       })
-      console.log('mouseMove')
     }
 
     window.addEventListener("mousemove", mouseMove);
