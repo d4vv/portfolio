@@ -127,6 +127,16 @@ const ParAnimation = keyframes`
   }
 `;
 
+const ParRightAnimation = keyframes`
+  0% {
+    right: -100%;
+  }
+
+  100% {
+    right: 0;
+  }
+`;
+
 const Main = styled(motion.main)`
   padding: 10% 10% 0 10%;
   background: var(--primaryColor);
@@ -300,26 +310,37 @@ const ContactTop = styled.div`
   display: flex;
   justify-content: space-between;
   margin-top: 5rem;
+  overflow: hidden;
 `;
 
 const ContactTopTitle = styled.div`
   font-weight: bold;
+  position: relative;
+  left: -100%;
+  animation: ${ParAnimation} 2s var(--primary-curve) forwards;
 `;
 
 const ContactBottom = styled.div`
   display: flex;
   justify-content: space-between;
   margin-top: 3rem;
+  overflow: hidden;
 `;
 
 const ContactBottomTitle = styled.div`
   font-weight: bold;
+  position: relative;
+  left: -100%;
+  animation: ${ParAnimation} 2s var(--primary-curve) forwards;
 `;
 
 const ContactList = styled.div`
   display: flex;
   flex-direction: column;
   width: 50%;
+  position: relative;
+  right: -100%;
+  animation: ${ParRightAnimation} 2s var(--primary-curve) forwards;
 `;
 
 const ContactListItem = styled.span`
@@ -340,6 +361,9 @@ const ContactSocials = styled.div`
   display: flex;
   flex-direction: column;
   width: 50%;
+  position: relative;
+  right: -100%;
+  animation: ${ParRightAnimation} 2s var(--primary-curve) forwards;
 `;
 
 const ContactSocialsItem = styled.span`
@@ -356,7 +380,7 @@ const ContactSocialsItemLink = styled.a`
   font-weight: bold;
 `;
 
-export default function Contact() {
+export default function Contact({hoverEnter, hoverLeave}) {
   return (
     <>
       <Head>
@@ -409,12 +433,16 @@ export default function Contact() {
                     <ContactList>
                       <ContactListItem>
                         <ContactListItemLink 
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
                           href="mailto:dawid@mejster.com">
                             dawid@mejster.com
                         </ContactListItemLink>
                       </ContactListItem>
                       <ContactListItem>
                         <ContactListItemLink
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
                           href="tel:+48665288886">
                             +48 665-288-886
                         </ContactListItemLink>
@@ -425,16 +453,32 @@ export default function Contact() {
                     <ContactBottomTitle>Connect</ContactBottomTitle>
                     <ContactSocials>
                       <ContactSocialsItem>
-                        <ContactSocialsItemLink href="mailto:dawid@mejster.com">Linkedin</ContactSocialsItemLink>
+                        <ContactSocialsItemLink 
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
+                          href="mailto:dawid@mejster.com"
+                        >Linkedin</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
-                        <ContactSocialsItemLink href="tel:+48665288886">Behance</ContactSocialsItemLink>
+                        <ContactSocialsItemLink 
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
+                          href="tel:+48665288886"
+                        >Behance</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
-                        <ContactSocialsItemLink href="tel:+48665288886">Dribble</ContactSocialsItemLink>
+                        <ContactSocialsItemLink 
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
+                          href="tel:+48665288886"
+                        >Dribble</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
-                        <ContactSocialsItemLink href="tel:+48665288886">Skype</ContactSocialsItemLink>
+                        <ContactSocialsItemLink 
+                          onMouseEnter={hoverEnter}
+                          onMouseLeave={hoverLeave}
+                          href="tel:+48665288886"
+                        >Skype</ContactSocialsItemLink>
                       </ContactSocialsItem>
                     </ContactSocials>
                   </ContactBottom>

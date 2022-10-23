@@ -43,7 +43,7 @@ export const MenuItem = ({hoverEnter, hoverLeave, handleNav, i }) => {
       onClick={handleNav}
       variants={variants}
     >
-      <Link scroll={false} href={`${link[i]}`}>
+      <Link href={`${link[i]}`}>
         <NavListItemLink
           onMouseEnter={hoverEnter}
           onMouseLeave={hoverLeave}

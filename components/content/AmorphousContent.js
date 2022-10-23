@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import ReactFullpage from '@fullpage/react-fullpage'
 import styled from 'styled-components'
+import ScrollDownArrow from '../scrollDownArrow'
 import AmorphousImage_1 from '../../public/images/projects/amorphous/Amorphous_1.jpg'
 
 const Section = styled.div`
@@ -25,6 +26,77 @@ const AmorphousContent = () => (
 
       return (
         <ReactFullpage.Wrapper>
+          <Section className="section">
+            <ScrollDownArrow/>
+            <MotionImage
+              className="imageContainer">
+              <Image
+                className="image"
+                src={AmorphousImage_1}
+                alt="Amorphous Project 1"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+                placeholder="blur"
+              />
+            </MotionImage>
+          </Section>
+          <Section className="section">
+            <MotionImage
+              className="imageContainer">
+              <Image
+                className="image"
+                src={AmorphousImage_1}
+                alt="Amorphous Project 1"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+                placeholder="blur"
+              />
+            </MotionImage>
+          </Section>
+          <Section className="section">
+            <MotionImage
+              className="imageContainer">
+              <Image
+                className="image"
+                src={AmorphousImage_1}
+                alt="Amorphous Project 1"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+                placeholder="blur"
+              />
+            </MotionImage>
+          </Section>
+          <Section className="section">
+            <MotionImage
+              className="imageContainer">
+              <Image
+                className="image"
+                src={AmorphousImage_1}
+                alt="Amorphous Project 1"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+                placeholder="blur"
+              />
+            </MotionImage>
+          </Section>
+          <Section className="section">
+            <MotionImage
+              className="imageContainer">
+              <Image
+                className="image"
+                src={AmorphousImage_1}
+                alt="Amorphous Project 1"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center"
+                placeholder="blur"
+              />
+            </MotionImage>
+          </Section>
           <Section className="section">
             <MotionImage
               className="imageContainer">

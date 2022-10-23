@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import ReactFullpage from '@fullpage/react-fullpage'
 import styled from 'styled-components'
+import ScrollDownArrow from '../scrollDownArrow'
 import PartnersPortalImage_1 from '../../public/images/projects/partners-portal/Partners-portal_1.jpg'
 
 const Section = styled.div`
@@ -25,6 +26,7 @@ const PartnersPortalContent = () => (
       return (
         <ReactFullpage.Wrapper>
           <Section className="section">
+            <ScrollDownArrow/>
             <MotionImage
               className="imageContainer">
               <Image
