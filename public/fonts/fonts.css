@@ -1,0 +1,31 @@
+  @font-face {
+    font-family: 'Helvetica Now Regular';
+    src: url('helveticanowtext-webfont.woff2') format('woff2'),
+    url('helveticanowtext-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Helvetica Now Extra Light';
+    src: url('helveticanowtextextralight-webfont.woff2') format('woff2'),
+    url('helveticanowtextextralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Helvetica Now Light';
+    src: url('helveticanowtextlight-webfont.woff2') format('woff2'),
+    url('helveticanowtextlight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Helvetica Now Thin';
+    src: url('helveticanowtextthin-webfont.woff2') format('woff2'),
+    url('helveticanowtextthin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

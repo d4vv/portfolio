@@ -11,38 +11,6 @@ const GlobalStyle = createGlobalStyle`
     --marqueeColor: #1d1e26;
   }
 
-  @font-face {
-  font-family: 'Helvetica Now Regular';
-  src: url('/fonts/helveticanowtext-webfont.woff2') format('woff2'),
-  url('/fonts/helveticanowtext-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  }
-
-  @font-face {
-  font-family: 'Helvetica Now Extra Light';
-  src: url('/fonts/helveticanowtextextralight-webfont.woff2') format('woff2'),
-  url('/fonts/helveticanowtextextralight-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  }
-
-  @font-face {
-  font-family: 'Helvetica Now Light';
-  src: url('/fonts/helveticanowtextlight-webfont.woff2') format('woff2'),
-  url('/fonts/helveticanowtextlight-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  }
-
-  @font-face {
-  font-family: 'Helvetica Now Thin';
-  src: url('/fonts/helveticanowtextthin-webfont.woff2') format('woff2'),
-  url('/fonts/helveticanowtextthin-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  }
-
   ::selection {
     background: var(--redColor);
   }
