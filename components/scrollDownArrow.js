@@ -5,28 +5,28 @@ import arrowSvg from './arrowSvg'
 
 const scrollDown = keyframes`
   0% {
-    bottom: 12%;
+    bottom: 10%;
   }
 
   20% {
-    bottom: 8%;
+    bottom: 6%;
   }
 
   40% {
-    bottom: 12%;
+    bottom: 10%;
   }
 
   60% {
-    bottom: 8%;
+    bottom: 6%;
   }
 
   80% {
-    bottom: 12%;
+    bottom: 10%;
     opacity: 1;
   }
 
   100% {
-    bottom: 8%;
+    bottom: 6%;
     opacity: 0;
   }
 `;
@@ -36,7 +36,7 @@ const ArrowWrapper = styled.span`
   transform: rotate(-90deg);
   z-index: 1000;
   position: fixed;
-  bottom: 12%;
+  bottom: 10%;
   left: 50%;
   pointer-events: visible;
   background: none;

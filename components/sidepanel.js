@@ -173,8 +173,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/amorphous/side-panel.jpg"
+                    alt="Amorphous"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>
@@ -225,8 +225,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/aums/side-panel.jpg"
+                    alt="Asseco Aums"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>
@@ -251,8 +251,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/partners-portal/side-panel.jpg"
+                    alt="PacketFabric Partners Portal"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>
@@ -277,7 +277,7 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
+                    src="/images/projects/portal/side-panel.jpg"
                     alt="Picture of the author"
                     layout="fill"
                   />
@@ -329,8 +329,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/zbierz-druzyne/side-panel.jpg"
+                    alt="Zbierz Druzyne"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>

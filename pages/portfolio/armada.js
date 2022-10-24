@@ -20,6 +20,10 @@ const MotionDiv = styled(motion.div)`
   position: relative;
 `;
 
+export async function getStaticProps() {
+    return { props: { isLight: true } };
+}
+
 export default function Armada({hoverEnter, hoverLeave, leftLink, rightLink}) {
 
   const variants = {
