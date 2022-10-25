@@ -32,8 +32,8 @@ const variants = {
   }
 };
 
-const name = ["About", "Portfolio", "Concepts", "Contact"];
-const link = ["/about", "/portfolio/amorphous", "/concepts", "/contact"];
+const name = ["About", "Portfolio", "Contact"];
+const link = ["/about", "/portfolio/amorphous", "/contact"];
 
 
 export const MenuItem = ({hoverEnter, hoverLeave, handleNav, i }) => {
