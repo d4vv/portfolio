@@ -3,7 +3,7 @@ import Link from 'next/link'
 import ReactFullpage from '@fullpage/react-fullpage'
 import styled from 'styled-components'
 import ScrollDownArrow from '../scrollDownArrow'
-import SxdriveImage_1 from '../../public/images/projects/armada/Armada_1.jpg'
+import SxdriveImage_1 from '../../public/images/projects/sxdrive/Sxdrive_1.jpg'
 
 const Section = styled.div`
   pointer-events: none;

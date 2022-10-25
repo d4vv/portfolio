@@ -199,8 +199,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/armada/side-panel.jpg"
+                    alt="Sabre Armada"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>
@@ -278,7 +278,7 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
                     src="/images/projects/portal/side-panel.jpg"
-                    alt="Picture of the author"
+                    alt="RStOR Portal"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>
@@ -303,8 +303,8 @@ export default function SidePanel({hoverEnter, hoverLeave}) {
                   <SidePanelMenuItemImage
                     onMouseEnter={hoverEnter}
                     onMouseLeave={hoverLeave}
-                    src="/images/photo.png"
-                    alt="Picture of the author"
+                    src="/images/projects/sxdrive/side-panel.jpg"
+                    alt="Skylable SXDrive"
                     layout="fill"
                   />
                   </SidePanelMenuItemImageWrapper>

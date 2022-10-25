@@ -456,28 +456,32 @@ export default function Contact({hoverEnter, hoverLeave}) {
                         <ContactSocialsItemLink 
                           onMouseEnter={hoverEnter}
                           onMouseLeave={hoverLeave}
-                          href="mailto:dawid@mejster.com"
+                          href="https://www.linkedin.com/in/mejster/"
+                          target="_blank"
                         >Linkedin</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
                         <ContactSocialsItemLink 
                           onMouseEnter={hoverEnter}
                           onMouseLeave={hoverLeave}
-                          href="tel:+48665288886"
+                          href="https://www.behance.net/mejster"
+                          target="_blank"
                         >Behance</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
                         <ContactSocialsItemLink 
                           onMouseEnter={hoverEnter}
                           onMouseLeave={hoverLeave}
-                          href="tel:+48665288886"
-                        >Dribble</ContactSocialsItemLink>
+                          href="https://dribbble.com/mejster"
+                          target="_blank"
+                        >Dribbble</ContactSocialsItemLink>
                       </ContactSocialsItem>
                       <ContactSocialsItem>
                         <ContactSocialsItemLink 
                           onMouseEnter={hoverEnter}
                           onMouseLeave={hoverLeave}
-                          href="tel:+48665288886"
+                          href="skype:mejster_skype?call"
+                          target="_blank"
                         >Skype</ContactSocialsItemLink>
                       </ContactSocialsItem>
                     </ContactSocials>
