@@ -264,7 +264,9 @@ const Preloader = () => {
 
     if (preloader) {
       if (!isMobile) {
-        preloader.classList.add("welcomed");
+        setTimeout(function () {
+          preloader.classList.add("welcomed");
+        }, 800);
         setTimeout(function () {
           preloader.remove();
         }, 2000);
