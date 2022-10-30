@@ -44,8 +44,8 @@ export default function Portal({hoverEnter, hoverLeave, leftLink, rightLink}) {
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - RSTOR Portal</title>
+        <meta name="description" content="Connect, access, move, and protect your data with optimal speed, scale, and cost-efficiency." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

@@ -44,8 +44,8 @@ export default function Amorphous({hoverEnter, hoverLeave, leftLink, rightLink})
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - Amorphous</title>
+        <meta name="description" content="Amorphous offering focuses on optimizing data placement to reduce costs and carbon footprint while maintaining adequate latency and performance." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

@@ -48,8 +48,8 @@ export default function Armada({hoverEnter, hoverLeave, leftLink, rightLink}) {
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - Armada</title>
+        <meta name="description" content="Armada is changeset management tool in verifying and validating artifact delivery." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

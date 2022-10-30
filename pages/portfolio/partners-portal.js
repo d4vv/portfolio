@@ -48,8 +48,8 @@ export default function PartnersPortal({hoverEnter, hoverLeave, leftLink, rightL
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - Packetfabric Partners Portal</title>
+        <meta name="description" content="Packetfabric Portal let create a customized network using any combination of ports, private point-to-point, dedicated or hosted cloud connections, and multi-cloud routing, at varying terms." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

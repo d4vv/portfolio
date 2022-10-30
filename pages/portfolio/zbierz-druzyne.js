@@ -48,8 +48,8 @@ export default function ZbierzDruzyne({hoverEnter, hoverLeave, leftLink, rightLi
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - Zbierz Druzyne</title>
+        <meta name="description" content="Zbierz Druzyne is a game application which combines traditional field games with technology." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

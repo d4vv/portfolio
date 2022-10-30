@@ -48,8 +48,8 @@ export default function Aums({hoverEnter, hoverLeave, leftLink, rightLink}) {
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - AUMS</title>
+        <meta name="description" content="Asseco Utility Management Solutions is a suite of IT systems designed for the utility sector. These products support all areas of the sector’s activities, which include not only generation, transmission, distribution and sales, but also the latest market trends such as electromobility and energy efficiency." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main

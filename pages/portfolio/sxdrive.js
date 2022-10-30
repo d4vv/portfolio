@@ -48,8 +48,8 @@ export default function Sxdrive({hoverEnter, hoverLeave, leftLink, rightLink}) {
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio - Skylable SXDrive</title>
+        <meta name="description" content="SXDrive safely stores your files in SX Cluster and keeps them synced across all your devices." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main
