@@ -44,8 +44,8 @@ export default function Home({hoverEnter, hoverLeave}) {
   return (
     <>
       <Head>
-        <title>Dawid Mejster</title>
-        <meta name="description" content="Dawid Mejster Portfolio" />
+        <title>Dawid Mejster Portfolio</title>
+        <meta name="description" content="Dawid Mejster is a creative designer with years of experience in building products and appealing web experiences." />
       </Head>
       <SidePanel hoverEnter={hoverEnter} hoverLeave={hoverLeave} />
       <Main
