@@ -1,9 +1,8 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import ReactFullpage from '@fullpage/react-fullpage'
 import styled from 'styled-components'
 import ScrollDownArrow from '../scrollDownArrow'
-import ZbierzDruzyneImage_1 from '../../public/images/projects/zbierz-druzyne/Project.jpg'
+import ZbierzDruzyne from '../../public/images/projects/zbierz-druzyne/Project.jpg'
 
 const Section = styled.div`
   pointer-events: none;
@@ -33,8 +32,8 @@ const ZbierzDruzyneContent = () => (
       <MotionImage>
         <Image
           className="imageNew"
-          src={ZbierzDruzyneImage_1}
-          alt="Zbierz druzyne Project 1"
+          src={ZbierzDruzyne}
+          alt="Zbierz druzyne Project"
           layout='fill'
           placeholder="blur"
         />
