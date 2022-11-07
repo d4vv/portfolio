@@ -33,6 +33,7 @@ const GlobalStyle = createGlobalStyle`
     background: var(--primaryColor);
     font-family: 'Helvetica Now Light';
     color: var(--secondaryColor);
+    margin: 0;
   }
 
   .imageContainer {
